@@ -1,0 +1,24 @@
+name: melly
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - nodejs
+  - ipywidgets
+  - pandas
+  - dask
+  - dask-image  
+  - imageio
+  - numpy
+  - scipy  
+  - scikit-image 
+  - matplotlib
+  - matplotlib-scalebar
+  - numcodecs 
+  - seaborn
+  - tqdm
+  - openpyxl
+  - zarr
+  - fsspec
