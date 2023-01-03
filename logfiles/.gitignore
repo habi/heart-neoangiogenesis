@@ -1,3 +1,7 @@
-!*.log
+i!*.log
+*.oog
 *T*.csv
 *rectmp.log
+Rat4*
+Rat5*
+RatT*
