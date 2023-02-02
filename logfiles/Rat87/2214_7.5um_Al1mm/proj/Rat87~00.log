@@ -58,3 +58,10 @@ Number Of Horizontal Offset Positions=1
 Study Date and Time=03 Jan 2023  15h:07m:04s
 Estimated Scan duration=6h:33m:24s
 Scan duration=2h:19m:57s
+Maximum vertical TS=3.0
+Maximum horizontal TS=1.0
+TS modified at=January04,10:24:33 ---  2205 of 2205 projections
+TS modified according to=D:\Results\Hearts Melly\Rat87\2214_7.5um_Al1mm\proj\Rat87~00_2DTransform.csv
+TS modified at level=3
+[Reconstruction]
+Pseudo-parallel projection calculated=1
