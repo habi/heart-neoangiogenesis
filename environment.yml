@@ -1,24 +1,20 @@
 name: melly
 channels:
-  - anaconda
   - conda-forge
-  - defaults
 dependencies:
-  - jupyterlab
-  - nodejs
-  - ipywidgets
-  - pandas
-  - dask
-  - dask-image  
+  - scipy
   - imageio
-  - numpy
-  - scipy  
-  - scikit-image 
+  - pandas
   - matplotlib
-  - matplotlib-scalebar
-  - numcodecs 
   - seaborn
-  - tqdm
-  - openpyxl
+  - dask-core
+  - dask-image
+  - scikit-image
   - zarr
-  - fsspec
+  - numcodecs
+  - jupyterlab
+  - ipywidgets
+  - dask-labextension
+  - matplotlib-scalebar
+  - openpyxl
+  - tqdm
